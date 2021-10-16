@@ -1,0 +1,48 @@
+Mineral Water
+Drinks
+10
+Coca Cola
+Drinks
+12
+Fresh Juice
+Drinks
+13
+Glass of Wine
+Drinks
+30
+Fries
+Appetizer
+25
+Greek Salad
+Appetizer
+35
+Homemade Focaccia
+Appetizer
+19
+Lentil Soup
+Appetizer
+33
+Pasta with Tomato Sauce
+Main Course
+48
+Margherita pizza
+Main Course
+52
+Mushroom Lasagna
+Main Course
+64
+Creamy Gnocchi
+Main Course
+57
+Risotto
+Main Course
+55
+Tiramisu
+Dessert
+39
+Cheesecake
+Dessert
+34
+Belgian Waffle
+Dessert
+36
